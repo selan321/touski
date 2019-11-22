@@ -1,0 +1,41 @@
+[
+  {
+    "symbol": "$TSX"
+  },
+  {
+    "symbol": "$CDNX"
+  },
+  {
+    "symbol": "$INDU"
+  },
+  {
+    "symbol": "$SPX"
+  },
+  {
+    "symbol": "$COMPQ"
+  },
+  {
+    "symbol": "$NIKK"
+  },
+  {
+    "symbol": "$SPTEN"
+  },
+  {
+    "symbol": "$SPTGD"
+  },
+  {
+    "symbol": "$HUI"
+  },
+  {
+    "symbol": "GLD"
+  },
+  {
+    "symbol": "SLV"
+  },
+  {
+    "symbol": "$USD"
+  },
+  {
+    "symbol": "$BRENT"
+  }
+]
