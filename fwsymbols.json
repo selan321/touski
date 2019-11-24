@@ -1,86 +1,115 @@
+---
 [
-  {
-    "symbol": "CIG4304"
-  },
-  {
-    "symbol": "EFN.PR.G"
-  },
-  {
-    "symbol": "FID417"
-  },
-  {
-    "symbol": "GGF70137"
-  },
-  {
-    "symbol": "GGF70147"
-  },
-  {
-    "symbol": "IAC.UN"
-  },
-  {
-    "symbol": "MMF659"
-  },
-  {
-    "symbol": "NBC814"
-  },
-  {
-    "symbol": "NBC839"
-  },
-  {
-    "symbol": "NBC857"
-  },
-  {
-    "symbol": "RBF1038"
-  },
-  {
-    "symbol": "RBF1090"
-  },
-  {
-    "symbol": "RBF462"
-  },
-  {
-    "symbol": "RBF557" 
-  },
-  {
-    "symbol": "RBF690" 
-  },
-  {
-    "symbol": "RY.PR.J" 
-  },
-  {
-    "symbol": "SPR001" 
-  },
-  {
-    "symbol": "SPR003" 
-  },
-  {
-    "symbol": "SPR216" 
-  },
-  {
-    "symbol": "SPR316" 
-  },
-  {
-    "symbol": "TDB222" 
-  },
-  {
-    "symbol": "TDB742" 
-  },
-  {
-    "symbol": "TDB8150" 
-  },
-  {
-    "symbol": "TDB8152" 
-  },
-  {
-    "symbol": "TDB900" 
-  },
-  {
-    "symbol": "TDB902" 
-  },
-  {
-    "symbol": "TDB911" 
-  },
-  {
-    "symbol": "TDB966"
-  }
+    {
+        "symbol": "CIG4304"
+        "name": "Signature High Income Corporate Class F"
+    },
+    {
+        "symbol": "EFN.PR.G"
+        "name": "Element Fleet Management Corp. 6.50% Cumulative 5-Year Rate Reset Preferred Shares Series G"
+    },
+    {
+        "symbol": "FID417"
+        "name": "Fidelity Monthly Income Class Series F"
+    },
+    {
+        "symbol": "GGF70137"
+        "name": ""
+    },
+    {
+        "symbol": "GGF70147"
+        "name": ""
+    },
+    {
+        "symbol": "IAC.UN"
+        "name": ""
+    },
+    {
+        "symbol": "MMF659"
+        "name": ""
+    },
+    {
+        "symbol": "NBC814"
+        "name": ""
+    },
+    {
+        "symbol": "NBC839"
+        "name": ""
+    },
+    {
+        "symbol": "NBC857"
+        "name": ""
+    },
+    {
+        "symbol": "RBF1038"
+        "name": ""
+    },
+    {
+        "symbol": "RBF1090"
+        "name": ""
+    },
+    {
+        "symbol": "RBF462"
+        "name": ""
+    },
+    {
+        "symbol": "RBF557" 
+        "name": ""
+    },
+    {
+        "symbol": "RBF690" 
+        "name": ""
+    },
+    {
+        "symbol": "RY.PR.J" 
+        "name": ""
+    },
+    {
+        "symbol": "SPR001" 
+        "name": ""
+    },
+    {
+        "symbol": "SPR003" 
+        "name": ""
+    },
+    {
+        "symbol": "SPR216" 
+        "name": ""
+    },
+    {
+        "symbol": "SPR316" 
+        "name": ""
+    },
+    {
+        "symbol": "TDB222" 
+        "name": ""
+    },
+    {
+        "symbol": "TDB742" 
+        "name": ""
+    },
+    {
+        "symbol": "TDB8150" 
+        "name": ""
+    },
+    {
+        "symbol": "TDB8152" 
+        "name": ""
+    },
+    {
+        "symbol": "TDB900" 
+        "name": ""
+    },
+    {
+        "symbol": "TDB902" 
+        "name": ""
+    },
+    {
+        "symbol": "TDB911" 
+        "name": ""
+    },
+    {
+        "symbol": "TDB966"
+        "name": ""
+    }
 ]
