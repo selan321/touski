@@ -38,7 +38,7 @@
     {
         "symbol": "TDB909",
         "name": "TD Canadian Bond Index Fund - e-Series"
-    }
+    },
     {
         "symbol": "FID417",
         "name": "Fidelity Monthly Income Class Series F"
@@ -74,5 +74,5 @@
     {
         "symbol": "TDB3135",
         "name": "TD Investment Savings Account (USD)"
-    },
+    }
 ]
