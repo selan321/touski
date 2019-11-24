@@ -1,4 +1,3 @@
----
 [
     {
         "symbol": "CIG4304",
@@ -26,43 +25,43 @@
     },
     {
         "symbol": "MMF659",
-        "name": ""
+        "name": "Manulife Strategic Income Fund Series F"
     },
     {
         "symbol": "NBC814",
-        "name": ""
+        "name": "NBI Canadian Index Fund Investor Series"
     },
     {
         "symbol": "NBC839",
-        "name": ""
+        "name": "NBI International Index Fund Investor Series"
     },
     {
         "symbol": "NBC857",
-        "name": ""
+        "name": "NBI Precious Metals Fund Investor Series"
     },
     {
         "symbol": "RBF1038",
-        "name": ""
+        "name": "RBC Global Precious Metals Fund Series D"
     },
     {
         "symbol": "RBF1090",
-        "name": ""
+        "name": "BlueBay Global Convertible Bond Fund (Cda) D"
     },
     {
         "symbol": "RBF462",
-        "name": ""
+        "name": "RBC Global Energy Fund Series A"
     },
     {
         "symbol": "RBF557",
-        "name": ""
+        "name": "RBC U.S. Index Fund Series A"
     },
     {
         "symbol": "RBF690",
-        "name": ""
+        "name": "BlueBay Global Convertible Bond Fund (Cda) F"
     },
     {
         "symbol": "RY.PR.J", 
-        "name": ""
+        "name": "Royal Bank of Canada Non-Cumulative 5-Year Rate Reset First Preferred Shares (NVCC)"
     },
     {
         "symbol": "SPR001",
@@ -82,11 +81,11 @@
     },
     {
         "symbol": "TDB222",
-        "name": ""
+        "name": "TD U.S. Small-Cap Equity Fund - Inv U$"
     },
     {
         "symbol": "TDB742",
-        "name": ""
+        "name": "TD Managed Balanced Growth Portfolio Advisor Ser"
     },
     {
         "symbol": "TDB8150", 
@@ -98,18 +97,18 @@
     },
     {
         "symbol": "TDB900",
-        "name": ""
+        "name": "TD Canadian Index Fund e-Series"
     },
     {
         "symbol": "TDB902",
-        "name": ""
+        "name": "TD U.S. Index Fund-e"
     },
     {
         "symbol": "TDB911",
-        "name": ""
+        "name": "TD International Index Fund - e-Series"
     },
     {
         "symbol": "TDB966",
-        "name": ""
+        "name": "TD Canadian Bond Index Fund - Inv"
     }
 ]
