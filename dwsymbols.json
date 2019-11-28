@@ -1,54 +1,41 @@
 [
-    {
-        "id": 1,
-        "symbol": "$TSX"
-    },
-    {
-        "id": 2,
-        "symbol": "$CDNX"
-    },
-    {
-        "id": 3,
-        "symbol": "$INDU"
-    },
-    {
-        "id": 4,
-        "symbol": "$SPX"
-    },
-    {
-        "id": 5,
-        "symbol": "$COMPQ"
-    },
-    {
-        "id": 6,
-        "symbol": "$NIKK"
-    },
-    {
-        "id": 7,
-        "symbol": "$SPTEN"
-    },
-    {
-        "id": 8,
-        "symbol": "$SPTGD"
-    },
-    {
-        "id": 9,
-        "symbol": "$HUI"
-    },
-    {
-        "id": 10,
-        "symbol": "GLD"
-    },
-    {
-        "id": 11,
-        "symbol": "SLV"
-    },
-    {
-        "id": 12,
-        "symbol": "$USD"
-    },
-    {
-        "id": 13,
-        "symbol": "$BRENT"
-    }
+  {
+    "symbol": "$TSX"
+  },
+  {
+    "symbol": "$CDNX"
+  },
+  {
+    "symbol": "$INDU"
+  },
+  {
+    "symbol": "$SPX"
+  },
+  {
+    "symbol": "$COMPQ"
+  },
+  {
+    "symbol": "$NIKK"
+  },
+  {
+    "symbol": "$SPTEN"
+  },
+  {
+    "symbol": "$SPTGD"
+  },
+  {
+    "symbol": "$HUI"
+  },
+  {
+    "symbol": "GLD"
+  },
+  {
+    "symbol": "SLV"
+  },
+  {
+    "symbol": "$USD"
+  },
+  {
+    "symbol": "$BRENT"
+  }
 ]
