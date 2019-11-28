@@ -1,77 +1,96 @@
 [
     {
+        "id": 1,
         "symbol": "NPP216",
         "name": "Ninepoint Gold Bullion Fund Series A"
     },
     {
+        "id": 2,
         "symbol": "NPP316",
         "name": "Ninepoint Silver Bullion Fund Series A"
     },
     {
+        "id": 3,
         "symbol": "RBF2010",
         "name": "RBC Investment Savings Account Series A"
     },
     {
+        "id": 4,
         "symbol": "BMO31137",
         "name": "BMO Resource Fund Series D"
     },
     {
+        "id": 5,
         "symbol": "BMO31147",
         "name": "BMO Precious Metals Fund Series D"
     },
     {
+        "id": 6,
         "symbol": "NPP003",
         "name": "Ninepoint Gold and Precious Minerals Fund A"
     },
     {
+        "id": 7,
         "symbol": "NPP151",
         "name": "Ninepoint Concentrated Canadian Equity Fund A"
     },
     {
+        "id": 8,
         "symbol": "RBF462",
         "name": "RBC Global Energy Fund Series A"
     },
     {
+        "id": 9,
         "symbol": "RBF1038",
         "name": "RBC Global Precious Metals Fund Series D"
     },
     {
+        "id": 10,
         "symbol": "TDB909",
         "name": "TD Canadian Bond Index Fund - e-Series"
     },
     {
+        "id": 11,
         "symbol": "FID417",
         "name": "Fidelity Monthly Income Class Series F"
     },
     {
+        "id": 12,
         "symbol": "MMF659",
         "name": "Manulife Strategic Income Fund Series F"
     },
     {
+        "id": 13,
         "symbol": "TDB8150", 
         "name": "TD Investment Savings Account"
     },
     {
+        "id": 14,
         "symbol": "DYN2903", 
         "name": "Dynamic Preferred Yield Class Series F"
     },
     {
+        "id": 15,
         "symbol": "FID1698", 
         "name": "Fidelity Special Situations Fund Series F"
     },
     {
+        "id": 16,
         "symbol": "MMF4636", 
         "name": "Manulife World Investment Fund Series F"
     },
     {
+        "id": 17,
         "symbol": "MMF659", 
         "name": "Manulife Strategic Income Fund Series F"
     },
     {
+        "id": 18,
         "symbol": "TDB8152",
         "name": "TD Investment Savings Account (USD)"
     },
     {
+        "id": 19,
         "symbol": "TDB3135",
         "name": "TD Investment Savings Account (USD)"
     }
