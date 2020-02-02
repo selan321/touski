@@ -1,0 +1,41 @@
+[
+  {
+    "symbol": "^TSX"
+  },
+  {
+    "symbol": "^TSXV"
+  },
+  {
+    "symbol": "^INDU"
+  },
+  {
+    "symbol": "^SPX"
+  },
+  {
+    "symbol": "^COMPX"
+  },
+  {
+    "symbol": "^NA300:SP"
+  },
+  {
+    "symbol": "^IXC"
+  },
+  {
+    "symbol": "^TXGU:CA"
+  },
+  {
+    "symbol": "^HUI"
+  },
+  {
+    "symbol": "IAU"
+  },
+  {
+    "symbol": "SLV"
+  },
+  {
+    "symbol": "$USDOLLAR"
+  },
+  {
+    "symbol": "IEO"
+  }
+]
