@@ -1,41 +1,54 @@
 [
-  {
-    "symbol": "^TSX"
-  },
-  {
-    "symbol": "^TSXV"
-  },
-  {
-    "symbol": "^INDU"
-  },
-  {
-    "symbol": "^SPX"
-  },
-  {
-    "symbol": "^COMPX"
-  },
-  {
-    "symbol": "^NA300:SP"
-  },
-  {
-    "symbol": "^IXC"
-  },
-  {
-    "symbol": "^TXGU:CA"
-  },
-  {
-    "symbol": "^HUI"
-  },
-  {
-    "symbol": "IAU"
-  },
-  {
-    "symbol": "SLV"
-  },
-  {
-    "symbol": "$USDOLLAR"
-  },
-  {
-    "symbol": "IEO"
-  }
+    {
+        "name": "S&P/TSX Composite Index"
+        "symbol": "^TSX"
+    },
+    {
+        "name": "S&P/TSX Venture Composite Index"
+        "symbol": "^TSXV"
+    },
+    {
+        "name": "NYSE Composite Index"
+        "symbol": "^NYA:US"
+    },
+    {
+        "name": "S&P 500"
+        "symbol": "^SPX:US"
+    },
+    {
+        "name": "NASDAQ Composite"
+        "symbol": "^COMPX:US"
+    },
+    {
+        "name": "Nikkei 225 Exch Traded Fd"
+        "symbol": "NTETF:US"
+    },
+    {
+        "name": "iShares Global Energy ETF"
+        "symbol": "IXC:US"
+    },
+    {
+        "name": "S&P/TSX Global Gold Index (USD)"
+        "symbol": "TXGU"
+    },
+    {
+        "name": "NYSE Arca Gold BUGS Index"
+        "symbol": "HUI:US"
+    },
+    {
+        "name": "ishares Gold Trust"
+        "symbol": "IAU:US"
+    },
+    {
+        "name": "iShares Silver Trust"
+        "symbol": "SLV:US"
+    },
+    {
+        "name": "Invesco DB US Dollar Index Bullish Fund"
+        "symbol": "uup:us"
+    },
+    {
+        "name": "iShares U.S. Oil & Gas Exploration & Production ETF"
+        "symbol": "IEO:US"
+    }
 ]
