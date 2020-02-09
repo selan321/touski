@@ -24,22 +24,6 @@
         "symbol": "TXGU"
     },
     {
-        "name": "ishares Gold Trust",
-        "symbol": "IAU:US"
-    },
-    {
-        "name": "iShares Silver Trust",
-        "symbol": "SLV:US"
-    },
-    {
-        "name": "iShares Global Energy ETF",
-        "symbol": "IXC:US"
-    },
-    {
-        "name": "iShares U.S. Oil & Gas Exploration & Production ETF",
-        "symbol": "IEO:US"
-    },
-    {
         "name": "Horizons Gold ETF",
         "symbol": "HUG"
     },
