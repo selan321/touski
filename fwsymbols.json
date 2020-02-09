@@ -1,74 +1,20 @@
 [
-    {
-        "symbol": "NPP216",
-        "name": "Ninepoint Gold Bullion Fund Series A"
-    },
-    {
-        "symbol": "NPP316",
-        "name": "Ninepoint Silver Bullion Fund Series A"
-    },
-    {
-        "symbol": "RBF2010",
-        "name": "RBC Investment Savings Account Series A"
-    },
-    {
-        "symbol": "BMO31137",
-        "name": "BMO Resource Fund Series D"
-    },
-    {
-        "symbol": "BMO31147",
-        "name": "BMO Precious Metals Fund Series D"
-    },
-    {
-        "symbol": "NPP003",
-        "name": "Ninepoint Gold and Precious Minerals Fund A"
-    },
-    {
-        "symbol": "NPP151",
-        "name": "Ninepoint Concentrated Canadian Equity Fund A"
-    },
-    {
-        "symbol": "RBF462",
-        "name": "RBC Global Energy Fund Series A"
-    },
-    {
-        "symbol": "RBF1038",
-        "name": "RBC Global Precious Metals Fund Series D"
-    },
-    {
-        "symbol": "TDB909",
-        "name": "TD Canadian Bond Index Fund - e-Series"
-    },
-    {
-        "symbol": "FID417",
-        "name": "Fidelity Monthly Income Class Series F"
-    },
-    {
-        "symbol": "TDB8150", 
-        "name": "TD Investment Savings Account"
-    },
-    {
-        "symbol": "DYN2903", 
-        "name": "Dynamic Preferred Yield Class Series F"
-    },
-    {
-        "symbol": "FID1698", 
-        "name": "Fidelity Special Situations Fund Series F"
-    },
-    {
-        "symbol": "MMF4636", 
-        "name": "Manulife World Investment Fund Series F"
-    },
-    {
-        "symbol": "MMF659", 
-        "name": "Manulife Strategic Income Fund Series F"
-    },
-    {
-        "symbol": "TDB8152",
-        "name": "TD Investment Savings Account (USD)"
-    },
-    {
-        "symbol": "TDB3135",
-        "name": "TD Investment Savings Account (USD)"
-    }
+    { "symbol": "BMO31137", "name": "BMO Resource Fund Series D" },
+    { "symbol": "BMO31147", "name": "BMO Precious Metals Fund Series D" },
+    { "symbol": "DYN2903",  "name": "Dynamic Preferred Yield Class Series F" },
+    { "symbol": "FID1698",  "name": "Fidelity Special Situations Fund Series F" },
+    { "symbol": "FID417",   "name": "Fidelity Monthly Income Class Series F" },
+    { "symbol": "MMF4636",  "name": "Manulife World Investment Fund Series F" },
+    { "symbol": "MMF659",   "name": "Manulife Strategic Income Fund Series F" },
+    { "symbol": "NPP003",   "name": "Ninepoint Gold and Precious Minerals Fund A" },
+    { "symbol": "NPP151",   "name": "Ninepoint Concentrated Canadian Equity Fund A" },
+    { "symbol": "NPP216",   "name": "Ninepoint Gold Bullion Fund Series A" },
+    { "symbol": "NPP316",   "name": "Ninepoint Silver Bullion Fund Series A" },
+    { "symbol": "RBF1038",  "name": "RBC Global Precious Metals Fund Series D" },
+    { "symbol": "RBF2010",  "name": "RBC Investment Savings Account Series A" },
+    { "symbol": "RBF462",   "name": "RBC Global Energy Fund Series A" },
+    { "symbol": "TDB3135",  "name": "TD Investment Savings Account (USD)" }
+    { "symbol": "TDB8150",  "name": "TD Investment Savings Account" },
+    { "symbol": "TDB8152",  "name": "TD Investment Savings Account (USD)" },
+    { "symbol": "TDB909",   "name": "TD Canadian Bond Index Fund - e-Series" },
 ]
