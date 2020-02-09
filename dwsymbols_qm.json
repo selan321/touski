@@ -20,20 +20,8 @@
         "symbol": "^COMPX:US"
     },
     {
-        "name": "Nikkei 225 Exch Traded Fd",
-        "symbol": "NTETF:US"
-    },
-    {
-        "name": "iShares Global Energy ETF",
-        "symbol": "IXC:US"
-    },
-    {
         "name": "S&P/TSX Global Gold Index (USD)",
         "symbol": "TXGU"
-    },
-    {
-        "name": "NYSE Arca Gold BUGS Index",
-        "symbol": "HUI:US"
     },
     {
         "name": "ishares Gold Trust",
@@ -44,11 +32,35 @@
         "symbol": "SLV:US"
     },
     {
-        "name": "Invesco DB US Dollar Index Bullish Fund",
-        "symbol": "uup:us"
+        "name": "iShares Global Energy ETF",
+        "symbol": "IXC:US"
     },
     {
         "name": "iShares U.S. Oil & Gas Exploration & Production ETF",
         "symbol": "IEO:US"
+    },
+    {
+        "name": "Horizons Gold ETF",
+        "symbol": "HUG"
+    },
+    {
+        "name": "Horizons Silver ETF",
+        "symbol": "HUZ"
+    },
+    {
+        "name": "Horizons S&P/TSX Capped Energy Index ETF",
+        "symbol": "HXE"
+    },
+    {
+        "name": "Horizons Crude Oil ETF",
+        "symbol": "HUC"
+    },
+    {
+        "name": "Horizons US Dollar Currency ETF",
+        "symbol": "DLR"
+    },
+    {
+        "name": "Horizons Canadian Dollar Currency ETF",
+        "symbol": "CAN"
     }
 ]
