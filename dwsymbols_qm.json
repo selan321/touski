@@ -20,10 +20,6 @@
         "symbol": "^COMPX:US"
     },
     {
-        "name": "S&P/TSX Global Gold Index (USD)",
-        "symbol": "TXGU"
-    },
-    {
         "name": "Horizons Gold ETF",
         "symbol": "HUG"
     },
