@@ -20,16 +20,20 @@
         "symbol": "^COMPX:US"
     },
     {
-        "name": "Horizons Gold ETF",
-        "symbol": "HUG"
+        "name": "iShares Gold Bullion ETF",
+        "symbol": "CGL"
     },
     {
-        "name": "Horizons Silver ETF",
-        "symbol": "HUZ"
+        "name": "iShares Silver Bullion ETF",
+        "symbol": "SVR"
     },
     {
-        "name": "Horizons S&P/TSX Capped Energy Index ETF",
-        "symbol": "HXE"
+        "name": "iShares S&P/TSX Global Gold Index ETF",
+        "symbol": "XGD"
+    },
+    {
+        "name": "iShares S&P/TSX Capped Energy Index ETF",
+        "symbol": "XEG"
     },
     {
         "name": "Horizons Crude Oil ETF",
