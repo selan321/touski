@@ -42,5 +42,13 @@
     {
         "name": "Horizons US Dollar Currency ETF",
         "symbol": "DLR"
+    },
+    {
+        "name": "Canadian Aggregate Bond Index ETF",
+        "symbol": "VAB"
+    },
+    {
+        "name": "U.S. Aggregate Bond Index ETF",
+        "symbol": "VBU"
     }
 ]
